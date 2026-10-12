@@ -62,7 +62,7 @@ Players can jump into the arena instantly as **Guests** with zero setup, or conn
 ### 1. Real SOL Equity in Cell Mass
 
 In NomNom, mass is not an arbitrary counter—it directly reflects on-chain equity:
-$$\text{Spawn Mass} = \text{BASE\_MASS} (20) + \left(\frac{\text{Deposited Lamports}}{50,000}\right)$$
+$$\text{Spawn Mass} = \text{BASE\\_MASS} (20) + \left(\frac{\text{Deposited Lamports}}{50,000}\right)$$
 
 | Stake Tier | SOL Deposit | Initial Mass | Strategic Role |
 | :--- | :--- | :--- | :--- |
