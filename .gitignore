@@ -1,0 +1,20 @@
+# Solana & Anchor keypairs
+*-keypair.json
+*.keypair.json
+id.json
+
+# Rust build targets
+target/
+**/*.rs.bk
+
+# Dependencies and builds
+node_modules/
+dist/
+*.log
+.env
+.env*.local
+
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
